@@ -51,7 +51,6 @@ namespace netcoreDemo
             {
                 endpoints.MapRazorPages();
             });
-            hahahah
         }
     }
 }
